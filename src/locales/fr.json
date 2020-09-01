@@ -1,0 +1,41 @@
+{
+  
+  "nav":{
+    "consult" :"Consulting",
+    "prog" : "Programme",
+    "formartionPer":"Formation personalisée",
+    "formartionLigne":"formation en ligne" ,
+    "cours": "cours",
+    "equip" :"equipes",
+    "activity" :"nos activités",
+    "contact" :"Contact",
+    "apropos" :"à propos de nous "
+  },
+   "title": "Lollipop",
+   "fondation" :"Fondée en 2018, LOLLIPOP est un studio de consulting et de formations spécialisé en UX Design Thinking , et en formations dédiées pour les industries créatives.",
+   "btn" :"voir Plus",
+   "section": {
+    "missiont" :"NOTRE MISSION",
+    "mission" :"L’équipe de LOLLIPOP encadre et accompagne les entreprises et les staups, à travers la REGION MENA an de repenser le processus de conception de leurs produits avec un esprit créatif, des méthodes structurelles et des techniques innovantes. Notre objectif est de développer le nouveau processus pour s'adapter à chaque étape de création, et adapter le produit au besoin des utilisateurs et du marché.",
+    "contributiont" :"NOS CONTRIBUTIONS",
+    "contribution" : "Plus +279 contributions...",
+    "activity" :{
+      "activityt" :"NOS ACTIVITÉS",
+      "li1":"Personnalisées: dédiées aux personnes <br> Personnalisées: dédiées pour les entreprises",
+      "li2" : "Digital projects integrating new technologies",
+      "li3" :"Des startups" 
+    },
+    "nouha": {
+      "title" :"CONCEPTION UX / ATELIERS DE CONCEPTION",
+      "who":"Instructeur de réflexion UX Design local pour l'UX MASTERCLASS by Google - 2018 à aujourd'hui"
+    },
+    "session" :"SESSIONS",
+    "startups":"STARTUPS FORMÉES À TRAVERS LE RÉGIONS MENA",
+    "equip":"Equipe",
+    "contact":"Contact",
+    "contactEmail" :"Email",
+    "contactLocal" :"Location",
+    "contactTel" :"Appeler"
+  }
+
+}

@@ -1,0 +1,40 @@
+{
+    
+    "nav":{
+      "consult" :"Consulting",
+      "prog" : "Program",
+      "formartionPer":"Personalized training",
+      "formartionLigne":"Online formation" ,
+      "cours": "Courses",
+      "equip" :"Team",
+      "activity" :"Our Activities",
+      "contact" :"Contact",
+      "apropos" :"About Us"
+    },
+    "title": "Lollipop",
+    "fondation" :"Lollipop was founded in 2018, LOLLIPOP is a consulting and training studio specializing in UX Design Thinking and dedicated training for the creative industries..",
+    "btn" :"see more",
+    "section": {
+      "missiont" :"OUR MISSION",
+      "mission" :"The LOLLIPOP team supervises and supports companies and startups, across the MENA REGION, to rethink the design process of their products with a creative spirit, structural methods and innovative techniques. Our goal is to develop the new process to adapt to each stage of creation, and adapt the product to the needs of users and the market.",
+      "contributiont" :"OUR CONTRIBUTIONS",
+      "contribution" : "More +279 contributions ...",
+      "activity" :{
+        "activityt" :" Our Activities",
+        "li1":"Personalized: dedicated to people <br> Personalized: dedicated for companies",
+        "li2" : "Digital projects integrating new technologies",
+        "li3" :"Startups" 
+      },
+      "nouha": {
+        "title" :"UX DESIGN/ DESIGN THINKING WORKSHOPS",
+        "who":"Local UX Design thinking instructor for the UX MASTERCLASS by Google - 2018 till now TOT Trainer - from December 2019"
+      },
+      "session" :"Sessions",
+      "startups":"STARTUPS TRAINED ACROSS THE MENA REGION",
+      "equip":"Team",
+      "contact":"Contact",
+      "contactEmail" :"Email",
+      "contactLocal" :"Location",
+      "contactTel" :"Call"
+    }
+  }
